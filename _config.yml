@@ -1,8 +1,20 @@
 # site settings
-title: Evocare
+title: MyTravelCare
 subtitle: by Evocare Srl
 email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+# description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: Ogni anno viaggiano milioni e milioni di persone.
+<br/>
+E la loro Salute?
+<br/>
+In viaggio anche un piccolo problema può diventare fastidioso, la
+maggior parte di noi spera solo che vada tutto bene.
+<br/>
+Noi abbiamo una soluzione migliore.
+<br/>
+MyTravelCare ti permette di avere la tua Salute ovunque, a portata di
+<br/>
+mano, tradotta nella lingua che desideri.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Think3
