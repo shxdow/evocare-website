@@ -1,22 +1,15 @@
 ---
 layout: post
-title: Consequat
-description: Ipsum dolor sit amet
+title: REPORT
+description: Traduci istantaneamente tutte le tue informazioni in 8 lingue e genera una scheda di sintesi per il medico o il farmacista
 image: assets/images/pic05.jpg
 ---
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. 
-Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. 
-Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. 
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. 
-Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. 
-Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. 
-Pellentesque aliquam maximus risus, vel sed vehicula.
-
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. 
-Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+Una lingua straniera può far diventare tutto più complicato: dal comunicare un
+sintomo a spiegare le nostre allergie. Ti lasciamo immaginare la tua intera storia
+clinica, i tuoi sintomi ed il profilo dei tuoi farmaci tradotti subito in maniera sicura in
+diverse lingue, con l’opportunità di trovare il farmaco equivalente nel paese di
+riferimento. La sezione REPORT genera una scheda di sintesi del paziente, leggibile
+in 8 lingue ed anche condivisibile come PDF a tua discrezione. Inglese, Francese,
+Tedesco, Cinese, Russo, Arabo, Spagnolo ed Italiano sono ora disponibili ma nuove
+lingue arriveranno presto.
