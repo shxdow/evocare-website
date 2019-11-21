@@ -2,7 +2,8 @@
 layout: post
 title: REPORT
 description: Traduci istantaneamente tutte le tue informazioni in 8 lingue e genera una scheda di sintesi per il medico o il farmacista
-image: assets/images/pic05.jpg
+# image: assets/images/pic05.jpg
+image: assets/images/report1.jpg
 ---
 
 Una lingua straniera può far diventare tutto più complicato: dal comunicare un
