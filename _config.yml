@@ -1,18 +1,18 @@
 # site settings
 title: MyTravelCare
 subtitle: by Evocare Srl
-email: youremailaddress@gmail.com
+email: info@evocare.tech
 # description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
 description: Ogni anno viaggiano milioni e milioni di persone.<br/><br/>E la loro Salute?<br/><br/>In viaggio anche un piccolo problema può diventare fastidioso, la maggior parte di noi spera solo che vada tutto bene.<br/><br/>Noi abbiamo una soluzione migliore.<br/><br/>MyTravelCare ti permette di avere la tua Salute ovunque, a portata di mano, tradotta nella lingua che desideri.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Think3
 street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+city: Milano 
+state: MI
+zip_code: 20123
+country: Italy
+phone: (+39) 555-5555
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
@@ -22,13 +22,13 @@ tiles-count: 6
 500px_url:
 facebook_url:
 github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+gitlab_url: 
+googleplus_url: 
+instagram_url: 
+linkedin_url: 
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: 
 
 # build settings
 markdown: kramdown
