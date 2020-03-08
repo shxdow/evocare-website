@@ -17,9 +17,8 @@
 		background-size: cover;
 		border-bottom: 0 !important;
 		cursor: default;
-		height: 60vh;
+		height: 100%;
 		margin-bottom: -3.25em;
-		max-height: 32em;
 		min-height: 22em;
 		position: relative;
 		top: -3.25em;
@@ -75,6 +74,7 @@
 				@include vendor('display', 'flex');
 				@include vendor('align-items', 'center');
 				margin: 0 0 _size(element-margin) 0;
+				flex-wrap: wrap;
 
 				> * {
 					margin-left: 1.5em;
@@ -95,9 +95,8 @@
 		}
 
 		&.major {
-			height: 75vh;
 			min-height: 30em;
-			max-height: 50em;
+			height: 100%;
 
 			&.alt {
 				  opacity: 0.75;
